@@ -42,7 +42,7 @@
 | [**CompiladorJava**](https://github.com/estebanghinamo/CompiladorJava) | Compilador en Java con ANTLR4: análisis léxico, sintáctico, semántico y generación de código intermedio | Java · ANTLR4 |
 | [**ClinicaMedica**](https://github.com/estebanghinamo/ClinicaMedica) | Backend para gestión integral de una clínica médica: pacientes, consultas e historiales | Java · MySQL |
 | [**Reservalo**](https://github.com/estebanghinamo/Reservalo) | Gestión de reservas de turnos con panel de administración | JavaScript · PHP |
-| [**Sistema-de-optimización-de-recorridos**](https://github.com/estebanghinamo/Sistema-de-optimizaci-n-de-recorridos) | Optimización de recorridos | Python |
+| [**Sistema-de-optimización-de-recorridos**](https://github.com/estebanghinamo/Sistema-de-optimizaci-n-de-recorridos) — *Travel Planner Multidestino* | Planificador de viajes multidestino: grafo de ciudades con **Dijkstra**, **TSP con memoización** para múltiples ciudades, cache **LRU/Redis**, reservas asíncronas con **procesamiento batch** y recomendaciones con **IA (Gemini)**. Trabajo final de Programación Eficiente, en equipo de 3. | FastAPI · Streamlit · Pytest |
 
 ---
 
