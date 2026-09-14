@@ -17,7 +17,7 @@
 ### 🧑‍💻 Sobre mí
 
 - 🎓 Ingeniero en Informática — **Universidad Blas Pascal** (2025), con formación técnica previa como Técnico en Informática (Instituto Técnico de Río Tercero).
-- 💼 Desarrollador Full Stack Junior. Como freelance entregué a un cliente real (**GriffonVet**) una plataforma web y móvil de gestión con **30 endpoints REST** y un modelo relacional de **26 tablas**, en 7 semanas.
+- 💼 Desarrollador Full Stack Junior. Como freelance entregué a un cliente real, **[GriffonVet](https://www.griffonvet.com.ar)**, una plataforma web y móvil de gestión con **30 endpoints REST** y un modelo relacional de **26 tablas**, en 7 semanas.
 - 🧩 Trabajé en equipos Scrum con **Angular, Spring Boot, Node.js/Express, React y SQL Server**.
 - 🤖 Sumo desarrollo asistido por IA (**Claude, Claude Code**) y automatización con **GitHub Actions** al flujo diario de trabajo.
 - 📍 Almafuerte, Córdoba, Argentina 🇦🇷
@@ -36,8 +36,9 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**Sistema-de-restaurante**](https://github.com/estebanghinamo/Sistema-de-restaurante) | Sistema de reservas para restaurantes vía API REST/SOAP | Angular · Spring Boot · SQL Server |
-| [**Contract_AR**](https://github.com/estebanghinamo/Contract_AR) | Gestión y firma de contratos digitales con validación | JavaScript · Blockchain |
+| 🌐 [**GriffonVet**](https://www.griffonvet.com.ar) — cliente real | Plataforma web y móvil de gestión para una clínica veterinaria (clientes, mascotas, historias clínicas), con autenticación y 2 roles de acceso. Reemplazó el registro en planillas físicas por un sistema digital centralizado: **30 endpoints REST**, modelo relacional de **26 tablas**, entregado en 7 semanas. | Backend · REST API · Modelado relacional |
+| [**Sistema-de-restaurante**](https://github.com/estebanghinamo/Sistema-de-restaurante) — *Ristorino* | Plataforma de reservas y promoción de restaurantes. Arquitectura basada en **microservicios**, combinando **REST y SOAP**, para conectar **4 restaurantes** en una única plataforma, resolviendo la heterogeneidad de los sistemas existentes. Reservas, promociones, ranking, recomendaciones, favoritos y feedback con soporte **multilenguaje (i18n)**. Equipo de 3 personas, sprints Scrum de 12 semanas, con procedimientos almacenados avanzados en SQL Server para la lógica de disponibilidad. | Angular · Spring Boot · SQL Server · REST · SOAP |
+| [**Contract_AR**](https://github.com/estebanghinamo/Contract_AR) | Plataforma de gestión y firma de contratos digitales. Backend en Node.js/Express conectado a PostgreSQL, en equipo Scrum de 4 integrantes; firma y validación con almacenamiento descentralizado en **IPFS**, y panel administrativo con KPIs financieros y operativos. | Node.js · Express · React · PostgreSQL · Blockchain · IPFS |
 | [**CompiladorJava**](https://github.com/estebanghinamo/CompiladorJava) | Compilador en Java con ANTLR4: análisis léxico, sintáctico, semántico y generación de código intermedio | Java · ANTLR4 |
 | [**ClinicaMedica**](https://github.com/estebanghinamo/ClinicaMedica) | Backend para gestión integral de una clínica médica: pacientes, consultas e historiales | Java · MySQL |
 | [**Reservalo**](https://github.com/estebanghinamo/Reservalo) | Gestión de reservas de turnos con panel de administración | JavaScript · PHP |
@@ -48,8 +49,8 @@
 ### 📊 Estadísticas
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=estebanghinamo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanghinamo&layout=compact&theme=tokyonight&hide_border=true" width="30%" alt="top languages"/>
+<img src="stats-card.svg" width="48%" alt="GitHub stats"/>
+<img src="top-langs.svg" width="40%" alt="top languages"/>
 </div>
 
 <div align="center">

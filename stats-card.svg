@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190">
+  <rect x="0.5" y="0.5" width="419" height="189" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="30" y="34" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="16" font-weight="700" fill="#e6e6fa">Esteban Ghinamo · en números</text>
+  <line x1="30" y1="46" x2="390" y2="46" stroke="#30363d"/>
+  
+    <text x="30" y="78" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="13" fill="#8b949e">Repositorios públicos</text>
+    <text x="390" y="78" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="14" font-weight="700" fill="#c9d1d9" text-anchor="end">6</text>
+    <text x="30" y="106" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="13" fill="#8b949e">Seguidores</text>
+    <text x="390" y="106" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="14" font-weight="700" fill="#c9d1d9" text-anchor="end">0</text>
+    <text x="30" y="134" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="13" fill="#8b949e">Estrellas totales</text>
+    <text x="390" y="134" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="14" font-weight="700" fill="#c9d1d9" text-anchor="end">0</text>
+    <text x="30" y="162" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="13" fill="#8b949e">Contribuciones (desde mar 2024)</text>
+    <text x="390" y="162" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="14" font-weight="700" fill="#c9d1d9" text-anchor="end">229</text>
+</svg>

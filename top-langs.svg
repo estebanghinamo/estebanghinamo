@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="225" viewBox="0 0 420 225">
+  <rect x="0.5" y="0.5" width="419" height="224" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="30" y="34" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="16" font-weight="700" fill="#e6e6fa">Lenguajes por repositorio</text>
+  <line x1="30" y1="46" x2="390" y2="46" stroke="#30363d"/>
+  
+    <text x="30" y="64" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="12" fill="#c9d1d9">Java</text>
+    <text x="390" y="64" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="12" fill="#8b949e" text-anchor="end">33%</text>
+    <rect x="30" y="70" width="270" height="8" rx="4" fill="#30363d"/>
+    <rect x="30" y="70" width="90.0" height="8" rx="4" fill="#b07219"/>
+    <text x="30" y="100" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="12" fill="#c9d1d9">JavaScript</text>
+    <text x="390" y="100" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="12" fill="#8b949e" text-anchor="end">33%</text>
+    <rect x="30" y="106" width="270" height="8" rx="4" fill="#30363d"/>
+    <rect x="30" y="106" width="90.0" height="8" rx="4" fill="#f1e05a"/>
+    <text x="30" y="136" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="12" fill="#c9d1d9">Python</text>
+    <text x="390" y="136" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="12" fill="#8b949e" text-anchor="end">17%</text>
+    <rect x="30" y="142" width="270" height="8" rx="4" fill="#30363d"/>
+    <rect x="30" y="142" width="45.0" height="8" rx="4" fill="#3572A5"/>
+    <text x="30" y="172" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="12" fill="#c9d1d9">TSQL</text>
+    <text x="390" y="172" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="12" fill="#8b949e" text-anchor="end">17%</text>
+    <rect x="30" y="178" width="270" height="8" rx="4" fill="#30363d"/>
+    <rect x="30" y="178" width="45.0" height="8" rx="4" fill="#e38c00"/>
+  <text x="30" y="211" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="10" fill="#8b949e">% de repos públicos con ese lenguaje principal</text>
+</svg>
