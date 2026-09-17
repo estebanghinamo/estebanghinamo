@@ -19,6 +19,7 @@
 - 🎓 Ingeniero en Informática — **Universidad Blas Pascal** (2025), con formación técnica previa como Técnico en Informática (Instituto Técnico de Río Tercero).
 - 💼 Desarrollador Full Stack Junior. Como freelance entregué a un cliente real, **[GriffonVet](https://www.griffonvet.com.ar)**, una plataforma web y móvil de gestión con **30 endpoints REST** y un modelo relacional de **26 tablas**, en 7 semanas.
 - 🧩 Trabajé en equipos Scrum con **Angular, Spring Boot, Node.js/Express, React y SQL Server**.
+- 🐳 Uso **Docker** para contenerizar y levantar entornos de desarrollo.
 - 🤖 Sumo desarrollo asistido por IA (**Claude, Claude Code**) y automatización con **GitHub Actions** al flujo diario de trabajo.
 - 📍 Almafuerte, Córdoba, Argentina 🇦🇷
 
@@ -27,7 +28,7 @@
 ### 🛠️ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,kotlin,cpp,react,angular,html,css,tailwind,bootstrap,nodejs,express,spring,laravel,fastapi,mysql,postgres,redis,git,github,githubactions,androidstudio,idea,vscode&perline=9" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,kotlin,cpp,react,angular,html,css,tailwind,bootstrap,nodejs,express,spring,laravel,fastapi,mysql,postgres,redis,docker,git,github,githubactions,androidstudio,idea,vscode&perline=9" alt="tech stack"/>
 
 <br>
 
@@ -62,8 +63,8 @@
 ### 📊 Estadísticas
 
 <div align="center">
-<img src="stats-card.svg" width="48%" alt="GitHub stats"/>
-<img src="top-langs.svg" width="40%" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=estebanghinamo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanghinamo&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="top languages"/>
 </div>
 
 <div align="center">
