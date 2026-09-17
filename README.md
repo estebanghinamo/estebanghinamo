@@ -55,6 +55,7 @@
 | [**ClinicaMedica**](https://github.com/estebanghinamo/ClinicaMedica) | Aplicación de escritorio en **JavaFX** para la gestión integral de una clínica médica: pacientes, personal, turnos, órdenes de consulta e historial clínico. Arquitectura en capas con patrón **DAO + Factory** y acceso a datos por JDBC puro. | JavaFX · Java · MySQL |
 | [**Reservalo**](https://github.com/estebanghinamo/Reservalo) | Gestión de reservas de turnos para peluquerías, con panel de administración (AdminLTE) e integración con **Google Calendar API** para recordatorios automáticos | PHP · CodeIgniter · MySQL · Google Calendar |
 | [**Sistema-de-Optimizacion-de-Recorridos**](https://github.com/estebanghinamo/Sistema-de-Optimizacion-de-Recorridos) — *Travel Planner Multidestino* | Planificador de viajes multidestino: grafo de ciudades con **Dijkstra**, **TSP con memoización** para múltiples ciudades, cache **LRU/Redis**, reservas asíncronas con **procesamiento batch** y recomendaciones con **IA (Gemini)**. Trabajo final de Programación Eficiente, en equipo de 3. | FastAPI · Streamlit · Pytest |
+| 🧠 [**hopfield-ai**](https://github.com/estebanghinamo/hopfield-ai) | Red neuronal de **Hopfield** con interfaz gráfica (Tkinter) para reconocimiento de patrones/letras en grilla 5x5: cálculo de la matriz de pesos, reconocimiento iterativo por convergencia, entrenamiento dinámico de nuevos patrones y sugerencia por **distancia de Hamming**. Trabajo práctico de Sistemas Inteligentes Artificiales. | Python · NumPy · IA (redes neuronales) |
 
 ---
 
