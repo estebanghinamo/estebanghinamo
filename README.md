@@ -63,12 +63,12 @@
 ### 📊 Estadísticas
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=estebanghinamo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanghinamo&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="top languages"/>
-</div>
 
-<div align="center">
+![Repositorios públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/estebanghinamo&label=Repositorios%20p%C3%BAblicos&query=$.public_repos&color=8a7fff&style=for-the-badge&logo=github&logoColor=white)
+![Seguidores](https://img.shields.io/github/followers/estebanghinamo?style=for-the-badge&logo=github&color=8a7fff&label=Seguidores)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=estebanghinamo&theme=tokyonight&hide_border=true" width="60%" alt="streak stats"/>
+
 </div>
 
 ---
