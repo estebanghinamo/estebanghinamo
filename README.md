@@ -42,6 +42,36 @@
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
 </div>
+### 🔍 Calidad y Seguridad
+
+<div align="center">
+
+**Análisis estático (SAST / linters)**
+
+![SonarQube Cloud](https://img.shields.io/badge/SonarQube_Cloud-F3702A?style=for-the-badge&logo=sonarqube&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan_%2F_Larastan-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+**Análisis dinámico (DAST)**
+
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-1E1E1E?style=for-the-badge&logo=owasp&logoColor=white)
+
+**Seguridad de dependencias y secretos**
+
+![Gitleaks](https://img.shields.io/badge/Gitleaks-FFD500?style=for-the-badge&logo=git&logoColor=black)
+![Composer Audit](https://img.shields.io/badge/Composer_Audit-885630?style=for-the-badge&logo=php&logoColor=white)
+![npm audit](https://img.shields.io/badge/npm_audit-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+**Testing y cobertura**
+
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
+![Karma / Jasmine](https://img.shields.io/badge/Karma_%2F_Jasmine-17262A?style=for-the-badge&logo=karma&logoColor=white)
+
+**CI/CD**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
 
 ---
 
