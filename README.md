@@ -42,6 +42,9 @@
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
 </div>
+
+---
+
 ### 🔍 Calidad y Seguridad
 
 <div align="center">
