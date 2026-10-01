@@ -17,7 +17,7 @@
 ### 🧑‍💻 Sobre mí
 
 - 🎓 Ingeniero en Informática — **Universidad Blas Pascal** (2025), con formación técnica previa como Técnico en Informática (Instituto Técnico de Río Tercero).
-- 💼 Desarrollador Full Stack Junior. Como freelance entregué a un cliente real, **[GriffonVet](https://www.griffonvet.com.ar)**, una plataforma web y móvil de gestión con **30 endpoints REST** y un modelo relacional de **26 tablas**, en 7 semanas.
+- 💼 Desarrollador Full Stack Junior. Como freelance entregué a un cliente real, **[GriffonVet](https://www.griffonvet.com.ar)**, una plataforma web y móvil de gestión con **30 endpoints REST** y un modelo relacional de **26 tablas**, en 7 semanas, Configuré un pipeline de CI con GitHub Actions y branch protection (PR + checks en verde) que integra build y tests de frontend (Karma/Jasmine), análisis estático con PHPStan/Larastan, ESLint y SonarQube/SonarCloud (Quality Gate por PR), escaneo de secretos con Gitleaks, auditoría de dependencias (npm/composer audit) y escaneo DAST con OWASP ZAP.
 - 🧩 Trabajé en equipos Scrum con **Angular, Spring Boot, Node.js/Express, React y SQL Server**.
 - 🐳 Uso **Docker** para contenerizar y levantar entornos de desarrollo.
 - 🤖 Sumo desarrollo asistido por IA (**Claude, Claude Code**) y automatización con **GitHub Actions** al flujo diario de trabajo.
