@@ -6,9 +6,6 @@
 <a href="mailto:esteban.ghinamo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
 <a href="https://github.com/estebanghinamo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=estebanghinamo&style=for-the-badge&color=8a7fff&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
